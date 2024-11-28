@@ -4,7 +4,7 @@ import speech_recognition as sr
 
 
 
-# Caminho
+# Caminho absoluto
 audio_path = os.path.join(os.getcwd(), "gravar01.mp3")
 print(audio_path)  # Verifique o caminho do arquivo no terminal para ter certeza
 
